@@ -1,0 +1,29 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+archive/
+
+# Generated outputs
+e2_output/
+ef_output/
+updated1_output/
+vit_output/
+ensemble_models/
+ensemble_results/
+
+# Model files
+*.pt
+*.pth
+*.h5
+*.keras
+*.onnx
+
+# Environment
+.env
+venv/
+.venv/
